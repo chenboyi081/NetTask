@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C102 为创建的Task传入参数\bin\Debug\C102 为创建的Task传入参数.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C102 为创建的Task传入参数\bin\Debug\C102 为创建的Task传入参数.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C102 为创建的Task传入参数\bin\Debug\C102 为创建的Task传入参数.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C102 为创建的Task传入参数\obj\Debug\C102 为创建的Task传入参数.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C102 为创建的Task传入参数\obj\Debug\C102 为创建的Task传入参数.pdb

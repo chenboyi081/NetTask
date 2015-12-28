@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C303 第三种休眠方法：自旋等待\bin\Debug\C303 第三种休眠方法：自旋等待.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C303 第三种休眠方法：自旋等待\bin\Debug\C303 第三种休眠方法：自旋等待.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C303 第三种休眠方法：自旋等待\bin\Debug\C303 第三种休眠方法：自旋等待.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C303 第三种休眠方法：自旋等待\obj\Debug\C303 第三种休眠方法：自旋等待.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C303 第三种休眠方法：自旋等待\obj\Debug\C303 第三种休眠方法：自旋等待.pdb

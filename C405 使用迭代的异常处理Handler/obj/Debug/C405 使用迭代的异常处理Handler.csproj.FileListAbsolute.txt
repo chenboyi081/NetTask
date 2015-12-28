@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C405 使用迭代的异常处理Handler\bin\Debug\C405 使用迭代的异常处理Handler.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C405 使用迭代的异常处理Handler\bin\Debug\C405 使用迭代的异常处理Handler.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C405 使用迭代的异常处理Handler\bin\Debug\C405 使用迭代的异常处理Handler.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C405 使用迭代的异常处理Handler\obj\Debug\C405 使用迭代的异常处理Handler.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C405 使用迭代的异常处理Handler\obj\Debug\C405 使用迭代的异常处理Handler.pdb

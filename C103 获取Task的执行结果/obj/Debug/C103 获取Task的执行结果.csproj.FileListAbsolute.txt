@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C103 获取Task的执行结果\bin\Debug\C103 获取Task的执行结果.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C103 获取Task的执行结果\bin\Debug\C103 获取Task的执行结果.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C103 获取Task的执行结果\bin\Debug\C103 获取Task的执行结果.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C103 获取Task的执行结果\obj\Debug\C103 获取Task的执行结果.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C103 获取Task的执行结果\obj\Debug\C103 获取Task的执行结果.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C203 用Wait Handle还检测Task是否被取消\bin\Debug\C203 用Wait Handle还检测Task是否被取消.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C203 用Wait Handle还检测Task是否被取消\bin\Debug\C203 用Wait Handle还检测Task是否被取消.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C203 用Wait Handle还检测Task是否被取消\bin\Debug\C203 用Wait Handle还检测Task是否被取消.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C203 用Wait Handle还检测Task是否被取消\obj\Debug\C203 用Wait Handle还检测Task是否被取消.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C203 用Wait Handle还检测Task是否被取消\obj\Debug\C203 用Wait Handle还检测Task是否被取消.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C403 等待多个task中的一个task执行完成\bin\Debug\C403 等待多个task中的一个task执行完成.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C403 等待多个task中的一个task执行完成\bin\Debug\C403 等待多个task中的一个task执行完成.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C403 等待多个task中的一个task执行完成\bin\Debug\C403 等待多个task中的一个task执行完成.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C403 等待多个task中的一个task执行完成\obj\Debug\C403 等待多个task中的一个task执行完成.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C403 等待多个task中的一个task执行完成\obj\Debug\C403 等待多个task中的一个task执行完成.pdb

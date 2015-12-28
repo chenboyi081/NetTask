@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C204  取消多个Task\bin\Debug\C204  取消多个Task.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C204  取消多个Task\bin\Debug\C204  取消多个Task.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C204  取消多个Task\bin\Debug\C204  取消多个Task.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C204  取消多个Task\obj\Debug\C204  取消多个Task.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C204  取消多个Task\obj\Debug\C204  取消多个Task.pdb

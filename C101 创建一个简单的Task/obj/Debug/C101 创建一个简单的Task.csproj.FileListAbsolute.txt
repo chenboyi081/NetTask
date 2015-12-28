@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\bin\Debug\C101 创建一个简单的Task.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\bin\Debug\C101 创建一个简单的Task.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\bin\Debug\C101 创建一个简单的Task.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\obj\Debug\C101 创建一个简单的Task.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\obj\Debug\C101 创建一个简单的Task.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C101 创建一个简单的Task\obj\Debug\C101 创建一个简单的Task.pdb

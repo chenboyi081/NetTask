@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Git\Net并行编程\C401 等待单独的一个Task执行完成\bin\Debug\C401 等待单独的一个Task执行完成.exe.config
+C:\Users\Administrator\Desktop\Git\Net并行编程\C401 等待单独的一个Task执行完成\bin\Debug\C401 等待单独的一个Task执行完成.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C401 等待单独的一个Task执行完成\bin\Debug\C401 等待单独的一个Task执行完成.pdb
+C:\Users\Administrator\Desktop\Git\Net并行编程\C401 等待单独的一个Task执行完成\obj\Debug\C401 等待单独的一个Task执行完成.exe
+C:\Users\Administrator\Desktop\Git\Net并行编程\C401 等待单独的一个Task执行完成\obj\Debug\C401 等待单独的一个Task执行完成.pdb
