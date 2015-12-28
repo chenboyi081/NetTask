@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\Git\Net并行编程\S404\bin\Debug\S404.exe.config
-C:\Users\Administrator\Desktop\Git\Net并行编程\S404\bin\Debug\S404.exe
-C:\Users\Administrator\Desktop\Git\Net并行编程\S404\bin\Debug\S404.pdb
-C:\Users\Administrator\Desktop\Git\Net并行编程\S404\obj\Debug\S404.exe
-C:\Users\Administrator\Desktop\Git\Net并行编程\S404\obj\Debug\S404.pdb
